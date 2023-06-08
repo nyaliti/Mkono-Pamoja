@@ -1,0 +1,20 @@
+{
+  "name": "mkono-pamoja",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/nyaliti/Mkono-Pamoja.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyaliti/Mkono-Pamoja/issues"
+  },
+  "homepage": "https://github.com/nyaliti/Mkono-Pamoja#readme"
+}
